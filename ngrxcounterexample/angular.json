@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ngrxcounterexample"
+  "defaultProject": "ngrxcounterexample",
+  "cli": {
+    "analytics": false
+  }
 }
